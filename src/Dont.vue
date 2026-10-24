@@ -24,9 +24,8 @@
             <p class="dos-paragraph"> 
                 This page will highlight common mistakes that you should not make and how to recognise the warning signs and make safer choices online.
             </p>
+    <img class="do-space-image"  src="Do and Dont images/wiredsmartio-mobile-4923639.jpg">
     </div>
-<img class="do-space-image"  src="Do and Dont images/wiredsmartio-mobile-4923639.jpg">
-    
 </template>
 <script>
 
